@@ -1,1 +1,2 @@
+<<<<<<< Updated upstream
 Welcome to Git session. The code is has some error.Error is solved
