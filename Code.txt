@@ -1,2 +1,2 @@
 
-Welcome to Git session. The code is has some error.Error is solved
+Welcome to Git session. The code is has some error.Currently no error.
