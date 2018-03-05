@@ -1,1 +1,1 @@
-Welcome to Git session
+Welcome to Git session. The code is completed.
